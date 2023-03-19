@@ -12,3 +12,4 @@ clean:
 
 clobber:
 	rm -f *~ *.o
+main.cpp:createTable.h
